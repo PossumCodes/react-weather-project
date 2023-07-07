@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="London" />
+        <Weather defaultCity="Sydney" />
         <footer>
           This project was coded by Lana and is{" "}
           <a
