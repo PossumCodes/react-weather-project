@@ -37,8 +37,12 @@
 
 .Weather .unit {
   position: relative;
-  top: 6px;
+  top: -32px;
   font-size: 18px;
   font-weight: 400;
   line-height: 1;
+}
+
+.Weather .unit a {
+  text-decoration: none;
 }
