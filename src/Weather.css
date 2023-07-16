@@ -6,7 +6,7 @@
 }
 
 .Weather h1 {
-  font-size: 24px;
+  font-size: 28px;
   line-height: 29px;
   margin: 20px 0 0 0;
 }
@@ -18,9 +18,9 @@
 
 .Weather li {
   font-size: 16px;
-
   list-style: none;
   font-weight: 300;
+  padding-top: 5px;
 }
 
 .Weather canvas {
@@ -43,4 +43,8 @@
 
 .Weather .unit a {
   text-decoration: none;
+}
+
+.Weather .WeatherForecast {
+  padding-top: 30px;
 }
