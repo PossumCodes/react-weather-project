@@ -8,3 +8,11 @@
   margin: 10px 0;
   color: #282044;
 }
+
+.App footer a {
+  text-decoration: none;
+}
+
+.App footer a:hover {
+  text-decoration: underline;
+}
